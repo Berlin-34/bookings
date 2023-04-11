@@ -1,0 +1,11 @@
+mode: set
+github.com/Berlin-34/bookings/cmd/web/main.go:22.13,24.16 2 0
+github.com/Berlin-34/bookings/cmd/web/main.go:24.16,26.3 1 0
+github.com/Berlin-34/bookings/cmd/web/main.go:28.2,35.16 4 0
+github.com/Berlin-34/bookings/cmd/web/main.go:35.16,37.3 1 0
+github.com/Berlin-34/bookings/cmd/web/main.go:40.18,56.16 10 1
+github.com/Berlin-34/bookings/cmd/web/main.go:56.16,59.3 2 0
+github.com/Berlin-34/bookings/cmd/web/main.go:61.2,69.12 6 1
+github.com/Berlin-34/bookings/cmd/web/middleware.go:9.45,19.2 3 1
+github.com/Berlin-34/bookings/cmd/web/middleware.go:22.50,24.2 1 1
+github.com/Berlin-34/bookings/cmd/web/routes.go:11.49,36.2 18 1
