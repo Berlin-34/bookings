@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/Berlin-34/bookings/pkg/config"
-	"github.com/Berlin-34/bookings/pkg/handlers"
-	"github.com/Berlin-34/bookings/pkg/render"
+	"github.com/Berlin-34/bookings/internal/config"
+	"github.com/Berlin-34/bookings/internal/handlers"
+	"github.com/Berlin-34/bookings/internal/render"
 	"github.com/alexedwards/scs/v2"
 	"log"
 	"net/http"
