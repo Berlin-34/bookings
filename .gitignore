@@ -4,3 +4,5 @@
 *coverage.out
 
 database.yml
+
+tmp/
