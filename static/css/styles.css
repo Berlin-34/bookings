@@ -1,26 +1,28 @@
-*, *::before, *::after {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .my-footer {
-    height: 5em;
-    padding: 1em;
-    background-color: #1b3b65;
-    color: #fff;
-    margin: 1.5em 0 0;
-    font-size: 80%;
+  height: 5em;
+  padding: 1em;
+  background-color: #1b3b65;
+  color: #fff;
+  margin: 1.5em 0 0;
+  font-size: 80%;
 }
 
 .room-image {
-    width: 50%;
+  width: 50%;
 }
 
 .notie-container {
-    box-shadow: none;
+  box-shadow: none;
 }
 
 .datepicker {
-    z-index: 10000;
+  z-index: 10000;
 }
